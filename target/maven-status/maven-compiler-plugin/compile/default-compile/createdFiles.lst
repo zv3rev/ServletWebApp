@@ -1,0 +1,10 @@
+filters\LoggedFilter.class
+controllers\SignIn.class
+entity\Profile.class
+services\ProfileService.class
+controllers\SignUp.class
+controllers\Welcome.class
+repository\PetRepository.class
+repository\ConnectionFactory.class
+entity\Pet.class
+repository\ProfileRepository.class
